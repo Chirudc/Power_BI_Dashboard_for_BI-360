@@ -5,6 +5,10 @@
 ## **Overview**
 AtliQ Hardware has experienced rapid growth and aims to leverage Power BI for data-driven decision-making. This project provides insights into **Finance, Sales, Marketing, and Supply Chain** to address stakeholder queries effectively.
 
+## Live Report
+Access the interactive Power BI report here  
+[Live Power BI Report Access Link](https://app.powerbi.com/view?r=eyJrIjoiYWY3MGE2MzctMzJlMy00ZWNiLTk0YWItNDZjZjA0NGJlZGFlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## **Technology Stack**
 - **SQL**  
 - **Power BI Desktop & Power BI Service**  
@@ -60,13 +64,47 @@ The dataset is sourced from a **MySQL database** and includes:
 - Ensures **efficient and scalable Power BI reports**.  
 
 ## **Dashboard Design – Key Views**
-1. **Home View** – Central navigation hub for all reports.  
-2. **Finance View** – Key financial metrics and performance.  
-3. **Sales View** – Sales insights by market and channel.  
-4. **Marketing View** – KPI tracking and campaign performance.  
-5. **Supply Chain View** – Inventory and logistics insights.  
-6. **Executive View** – High-level business summary for decision-makers.  
-7. **Support** – Additional resources and assistance.  
+
+### 1. Home View  
+Central navigation hub for all reports. 
+
+![Home View](https://github.com/Chirudc/Power_BI_Dashboard_for_BI-360/blob/main/Power%20BI%20Files/Home.png)
+
+### 2. Info
+Comprehensive Business 360 Insights. 
+
+![Info](https://github.com/Chirudc/Power_BI_Dashboard_for_BI-360/blob/main/Power%20BI%20Files/Info.png)
+
+### 3. Finance View  
+Key financial metrics and performance.  
+
+![Finance View](https://github.com/Chirudc/Power_BI_Dashboard_for_BI-360/blob/main/Power%20BI%20Files/Finance%20View.png)
+
+### 4. Sales View  
+Sales insights by market and channel.  
+
+![Sales View](https://github.com/Chirudc/Power_BI_Dashboard_for_BI-360/blob/main/Power%20BI%20Files/Sales%20View.png)
+
+### 5. Marketing View  
+KPI tracking and campaign performance. 
+
+![Marketing View](https://github.com/Chirudc/Power_BI_Dashboard_for_BI-360/blob/main/Power%20BI%20Files/Marketing%20View.png)
+
+### 6. Supply Chain View  
+Inventory and logistics insights.  
+
+![Supply Chain View](https://github.com/Chirudc/Power_BI_Dashboard_for_BI-360/blob/main/Power%20BI%20Files/Supply%20Chain%20View.png)
+
+### 7. Executive View  
+High-level business summary for decision-makers.  
+
+![Executive View](https://github.com/Chirudc/Power_BI_Dashboard_for_BI-360/blob/main/Power%20BI%20Files/Executive%20View.png)
+
+### 8. Support  
+Additional resources and assistance.  
+
+![Support](https://github.com/Chirudc/Power_BI_Dashboard_for_BI-360/blob/main/Power%20BI%20Files/Support.png)
+ 
 
 ## **Project Outcome & Impact**
 - Enabled AtliQ Hardware to **transition from intuition-based to data-driven decision-making**.  
