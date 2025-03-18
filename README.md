@@ -61,7 +61,9 @@ The dataset is sourced from a **MySQL database** and includes:
 
 ## **Data Modeling**
 - **Method Used**: Snowflake Data Modeling.  
-- Ensures **efficient and scalable Power BI reports**.  
+- Ensures **efficient and scalable Power BI reports**.
+
+![Data Modeling](https://github.com/Chirudc/Power_BI_Dashboard_for_BI-360/blob/main/Power%20BI%20Files/Data%20Modeling.png)
 
 ## **Dashboard Design – Key Views**
 
